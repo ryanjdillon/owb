@@ -1,0 +1,21 @@
+| Part Number | Description                              | Color       | Quantity | Make/Buy | Vendor         | Material               | Vendor P/N    | Vendor Price | Vendor URL            | Cost   |
+|-------------|------------------------------------------|-------------|----------|----------|----------------|------------------------|---------------|--------------|-----------------------|--------|
+|             | Microcontroller, Feather Bluefruit nRF52 |             | 1        | Buy      | Adafruit       | PCB                    | 3406          | 24.95        | https://goo.gl/ezuNSm | $24.95 |
+|             | Radio, RFM9X LoRa                        |             | 1        | Buy      | Adafruit       | PCB                    | 3072          | 19.95        | https://goo.gl/qXR31v | $19.95 |
+|             | LED, RGB, common anode                   | Clear       | 1        | Buy      | Adafruit       | Acrylic, Clear         | 159           | 2.00         | https://goo.gl/uf7iQ5 | $2.00  |
+|             | Antenna, 900 MHz                         | Black       | 1        | Buy      | Adafruit       | ABS Plastic            | 3340          | 12.75        | https://goo.gl/KbaPq6 | $12.75 |
+|             | Battery, lithium ion, 6600 mAh           |             | 1        | Buy      | Adafruit       | Lipo Battery           | 353           | 29.50        | https://goo.gl/zVovVP | $29.50 |
+|             | Solar charger                            |             | 1        | Buy      | Adafruit       | PCB                    | 390           | 17.50        | https://goo.gl/N5U3MA | $17.50 |
+|             | Temperature sensor, DS18B20              |             | 1        | Buy      | Adafruit       | Stainless Steel        | 381           | 9.95         | https://goo.gl/t5KcRB | $9.95  |
+|             | Machine screw, M3 x 10                   |             | 6        | Buy      | McMaster       | Stainless Steel        | 93395A207     | 0.1160       |                       | $0.70  |
+|             | Threaded insert, M3 x 0.5                |             | 10       | Buy      | McMaster Carr  | Stainless Steel        | 92398A121     | 0.3696       |                       | $3.70  |
+|             | Threaded hex standoff                    |             | 6        | Buy      | McMaster Carr  | Nylon                  | 95783A028     | 1.92         |                       | $11.52 |
+|             | Machine screw, button head, M3 x 8       |             | 4        | Buy      | McMaster Carr  | Stainless Steel        | 94500A222     | 0.0555       |                       | $0.22  |
+|             | Nut, locknut, M3                         |             | 2        | Buy      | McMaster Carr  | Stainless Steel        | 94205A220     | 0.095        |                       | $0.19  |
+|             | Pool float, chlorine dispenser           | White, blue | 1        | Buy      | Millard        | ABS Plastic            | B00IT2VZ5U    | 9.99         | https://goo.gl/FwQFzz | $9.99  |
+|             | Solar panel, 0.6 W                       |             | 1        | Buy      | Sundance Solar | Solar Panel            | 0856788005221 | 12.95        | https://goo.gl/qCYqJf | $12.95 |
+|             | Electronics container, walls             | Yellow      | 1        | Make     |                | 3D Printed, PLA        |               |              |                       | $-     |
+|             | Electronics container, bottom            | Yellow      | 1        | Make     |                | 3D Printed, PLA        |               |              |                       | $-     |
+|             | Electronics container, gasket            | Black       | 2        | Make     |                | 3D printed, Ninja Flex |               |              |                       | $-     |
+|             | Electronics container, top               | Yellow      | 1        | Make     |                | 3D Printed, PLA        |               |              |                       | $-     |
+|             | PCB, OSB - v4                            | Copper      | 1        | Make     |                | PCB                    |               |              |                       | $-     |
